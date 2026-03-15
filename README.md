@@ -1,1 +1,1 @@
-# fullstack-monitoring-app
+# fullstack-monitoring-app monolithic
